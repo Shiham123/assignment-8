@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "title": "Clean water for children",
+    "category": "health",
+    "description": "Clean water is a fundamental necessity, yet millions of children around the world still lack access to safe and clean drinking water. Our Clean water for children campaign aims to make a significant impact on the health and well-being of these vulnerable young lives.\n\nImagine a world where every child can quench their thirst without the fear of waterborne diseases. Your contribution to this campaign will help provide clean and safe drinking water to children in need. By donating just $100, you can make a profound difference in the lives of these children, ensuring they have access to the most basic requirement for a healthy life.\n\nEvery drop counts, and your support will ripple through communities, ensuring children grow up with the opportunity to thrive, learn, and dream without the burden of water-related health issues. Together, we can transform the lives of these children, offering them a brighter and healthier future.\n\nJoin us in our mission to provide clean water for children. Your generosity can help turn the tide for a generation, one glass of clean water at a time.",
+    "image": "https://raw.githubusercontent.com/Shiham123/Img-donation/master/healthDonationOne.jpg",
+    "amount": 100,
+    "bgColor": "#0052ff33",
+    "fontColor": "#0052FF",
+    "bgCategory": "#0052ff33"
+  },
+  {
+    "id": 2,
+    "title": "Good food for all",
+    "category": "health",
+    "description": "Clean water is a fundamental necessity, yet millions of children around the world still lack access to safe and clean drinking water. Our Clean water for children campaign aims to make a significant impact on the health and well-being of these vulnerable young lives.\n\nImagine a world where every child can quench their thirst without the fear of waterborne diseases. Your contribution to this campaign will help provide clean and safe drinking water to children in need. By donating just $100, you can make a profound difference in the lives of these children, ensuring they have access to the most basic requirement for a healthy life.\n\nEvery drop counts, and your support will ripple through communities, ensuring children grow up with the opportunity to thrive, learn, and dream without the burden of water-related health issues. Together, we can transform the lives of these children, offering them a brighter and healthier future.\n\nJoin us in our mission to provide clean water for children. Your generosity can help turn the tide for a generation, one glass of clean water at a time.",
+    "image": "https://raw.githubusercontent.com/Shiham123/Img-donation/master/healthDonationTwo.jpg",
+    "amount": 200,
+    "bgColor": "#0052ff33",
+    "fontColor": "#0052FF",
+    "bgCategory": "#0052ff33"
+  },
+  {
+    "id": 3,
+    "title": "Better hospital for all",
+    "category": "health",
+    "description": "Clean water is a fundamental necessity, yet millions of children around the world still lack access to safe and clean drinking water. Our Clean water for children campaign aims to make a significant impact on the health and well-being of these vulnerable young lives.\n\nImagine a world where every child can quench their thirst without the fear of waterborne diseases. Your contribution to this campaign will help provide clean and safe drinking water to children in need. By donating just $100, you can make a profound difference in the lives of these children, ensuring they have access to the most basic requirement for a healthy life.\n\nEvery drop counts, and your support will ripple through communities, ensuring children grow up with the opportunity to thrive, learn, and dream without the burden of water-related health issues. Together, we can transform the lives of these children, offering them a brighter and healthier future.\n\nJoin us in our mission to provide clean water for children. Your generosity can help turn the tide for a generation, one glass of clean water at a time.",
+    "image": "https://raw.githubusercontent.com/Shiham123/Img-donation/master/healthDonationThree.jpg",
+    "amount": 300,
+    "bgColor": "#0052ff33",
+    "fontColor": "#0052FF",
+    "bgCategory": "#0052ff33"
+  },
+
+  {
+    "id": 4,
+    "title": "Good education",
+    "category": "education",
+    "description": "Access to quality education is a powerful force for positive change, but unfortunately, many children around the world still lack the resources and opportunities they need to receive a good education. Our \"Good education\" campaign is dedicated to transforming lives through knowledge and learning.\n\nImagine a world where every child, regardless of their circumstances, has access to a quality education that unlocks their potential. Your contribution to this campaign will help provide educational resources, scholarships, and support to children in need. By donating just $100, you can play a vital role in shaping a brighter future for these young minds.\n\nEvery dollar you contribute will empower communities and ensure that children have the opportunity to thrive, learn, and dream without the barriers that often stand in their way. Together, we can transform the lives of these children, equipping them with the tools they need to create a better tomorrow.\n\nJoin us in our mission to provide good education to children in need. Your generosity can help break the cycle of limited opportunities, offering them a path to success and a brighter future.",
+    "image": "https://raw.githubusercontent.com/Shiham123/Img-donation/master/educationDonation.jpg",
+    "amount": 150,
+    "bgColor": "#ff444a26",
+    "fontColor": "#FF444A",
+    "bgCategory": "#ff444a33"
+  },
+  {
+    "id": 5,
+    "title": "Make world better",
+    "category": "education",
+    "description": "Access to quality education is a powerful force for positive change, but unfortunately, many children around the world still lack the resources and opportunities they need to receive a good education. Our \"Good education\" campaign is dedicated to transforming lives through knowledge and learning.\n\nImagine a world where every child, regardless of their circumstances, has access to a quality education that unlocks their potential. Your contribution to this campaign will help provide educational resources, scholarships, and support to children in need. By donating just $100, you can play a vital role in shaping a brighter future for these young minds.\n\nEvery dollar you contribute will empower communities and ensure that children have the opportunity to thrive, learn, and dream without the barriers that often stand in their way. Together, we can transform the lives of these children, equipping them with the tools they need to create a better tomorrow.\n\nJoin us in our mission to provide good education to children in need. Your generosity can help break the cycle of limited opportunities, offering them a path to success and a brighter future.",
+    "image": "https://raw.githubusercontent.com/Shiham123/Img-donation/master/educationDonationTwo.jpg",
+    "amount": 250,
+    "bgColor": "#ff444a26",
+    "fontColor": "#FF444A",
+    "bgCategory": "#ff444a33"
+  },
+  {
+    "id": 6,
+    "title": "Education for children",
+    "category": "education",
+    "description": "Access to quality education is a powerful force for positive change, but unfortunately, many children around the world still lack the resources and opportunities they need to receive a good education. Our \"Good education\" campaign is dedicated to transforming lives through knowledge and learning.\n\nImagine a world where every child, regardless of their circumstances, has access to a quality education that unlocks their potential. Your contribution to this campaign will help provide educational resources, scholarships, and support to children in need. By donating just $100, you can play a vital role in shaping a brighter future for these young minds.\n\nEvery dollar you contribute will empower communities and ensure that children have the opportunity to thrive, learn, and dream without the barriers that often stand in their way. Together, we can transform the lives of these children, equipping them with the tools they need to create a better tomorrow.\n\nJoin us in our mission to provide good education to children in need. Your generosity can help break the cycle of limited opportunities, offering them a path to success and a brighter future.",
+    "image": "https://raw.githubusercontent.com/Shiham123/Img-donation/master/educationDonationThree.jpg",
+    "amount": 350,
+    "bgColor": "#ff444a26",
+    "fontColor": "#FF444A",
+    "bgCategory": "#ff444a33"
+  },
+
+  {
+    "id": 7,
+    "title": "Used Clothing Drive",
+    "category": "clothing",
+    "description": "Every piece of clothing has a story, and it can continue its journey by bringing warmth, comfort, and hope to those in need. Our Used Clothing Drive is a heartfelt initiative aimed at making a positive impact in our community.Imagine a world where no one has to face the harsh elements without proper clothing. Your contribution to this campaign will help collect and distribute gently used clothing to individuals and families who may be struggling to make ends meet. By donating your unused clothes, you can play a vital role in providing comfort and dignity to those less fortunate.Every piece of clothing donated is a symbol of compassion and support. Together, we can make sure that no one has to go without warm clothes during the cold winter months or face the challenges of life without appropriate attire.Join us in our mission to create a warmer and more caring community. Your generosity in this Used Clothing Drive can bring a smile to someone's face and help them face each day with renewed confidence.A Used Clothing Drive is not only a chance to give back but also an opportunity to build a stronger, more compassionate community. Your support can make a significant difference in the lives of those in need.",
+    "image": "https://raw.githubusercontent.com/Shiham123/Img-donation/master/clothDonationOne.jpg",
+    "amount": 170,
+    "bgColor": "#79c23f26",
+    "fontColor": "#79C23F",
+    "bgCategory": "#79c23f33"
+  },
+  {
+    "id": 8,
+    "title": "Better cloth for all",
+    "category": "clothing",
+    "description": "Every piece of clothing has a story, and it can continue its journey by bringing warmth, comfort, and hope to those in need. Our Used Clothing Drive is a heartfelt initiative aimed at making a positive impact in our community.Imagine a world where no one has to face the harsh elements without proper clothing. Your contribution to this campaign will help collect and distribute gently used clothing to individuals and families who may be struggling to make ends meet. By donating your unused clothes, you can play a vital role in providing comfort and dignity to those less fortunate.Every piece of clothing donated is a symbol of compassion and support. Together, we can make sure that no one has to go without warm clothes during the cold winter months or face the challenges of life without appropriate attire.Join us in our mission to create a warmer and more caring community. Your generosity in this Used Clothing Drive can bring a smile to someone's face and help them face each day with renewed confidence.A Used Clothing Drive is not only a chance to give back but also an opportunity to build a stronger, more compassionate community. Your support can make a significant difference in the lives of those in need.",
+    "image": "https://raw.githubusercontent.com/Shiham123/Img-donation/master/clothDonationTwo.jpg",
+    "amount": 270,
+    "bgColor": "#79c23f26",
+    "fontColor": "#79C23F",
+    "bgCategory": "#79c23f33"
+  },
+  {
+    "id": 9,
+    "title": "Cloth donation",
+    "category": "clothing",
+    "description": "Every piece of clothing has a story, and it can continue its journey by bringing warmth, comfort, and hope to those in need. Our Used Clothing Drive is a heartfelt initiative aimed at making a positive impact in our community.Imagine a world where no one has to face the harsh elements without proper clothing. Your contribution to this campaign will help collect and distribute gently used clothing to individuals and families who may be struggling to make ends meet. By donating your unused clothes, you can play a vital role in providing comfort and dignity to those less fortunate.Every piece of clothing donated is a symbol of compassion and support. Together, we can make sure that no one has to go without warm clothes during the cold winter months or face the challenges of life without appropriate attire.Join us in our mission to create a warmer and more caring community. Your generosity in this Used Clothing Drive can bring a smile to someone's face and help them face each day with renewed confidence.A Used Clothing Drive is not only a chance to give back but also an opportunity to build a stronger, more compassionate community. Your support can make a significant difference in the lives of those in need.",
+    "image": "https://raw.githubusercontent.com/Shiham123/Img-donation/master/clothDonationThree.jpg",
+    "amount": 370,
+    "bgColor": "#79c23f26",
+    "fontColor": "#79C23F",
+    "bgCategory": "#79c23f33"
+  },
+
+  {
+    "id": 10,
+    "title": "Food for all",
+    "category": "food",
+    "description": "Access to nutritious and wholesome food is a fundamental right that should be available to everyone, regardless of their circumstances. Our Better Food for Everyone campaign is dedicated to ensuring that every individual has the opportunity to enjoy healthy and nourishing meals.Imagine a world where no one has to go to bed hungry, where fresh fruits, vegetables, and quality ingredients are accessible to all. Your support in this campaign will help us work towards this vision. By contributing, you can make a meaningful difference in the lives of individuals and families struggling with food insecurity.Every donation goes towards providing essential food items, supporting local farmers, and promoting sustainable food practices. Together, we can ensure that no one has to make the difficult choice between a nutritious meal and other essential needs. Join us in our mission to provide better food for everyone. Your generosity can help alleviate hunger, improve health outcomes, and build a stronger, more resilient community.The Better Food for Everyone campaign aims to address food insecurity and promote a more equitable food system, where everyone can enjoy the benefits of good nutrition. Your contribution can play a vital role in this important cause.",
+    "image": "https://raw.githubusercontent.com/Shiham123/Img-donation/master/donationFoodOne.jpg",
+    "amount": 190,
+    "bgColor": "#f8714726",
+    "fontColor": "#F87147",
+    "bgCategory": "#f8714733"
+  },
+  {
+    "id": 11,
+    "title": "Sharing better meal",
+    "category": "food",
+    "description": "Access to nutritious and wholesome food is a fundamental right that should be available to everyone, regardless of their circumstances. Our Better Food for Everyone campaign is dedicated to ensuring that every individual has the opportunity to enjoy healthy and nourishing meals.Imagine a world where no one has to go to bed hungry, where fresh fruits, vegetables, and quality ingredients are accessible to all. Your support in this campaign will help us work towards this vision. By contributing, you can make a meaningful difference in the lives of individuals and families struggling with food insecurity.Every donation goes towards providing essential food items, supporting local farmers, and promoting sustainable food practices. Together, we can ensure that no one has to make the difficult choice between a nutritious meal and other essential needs. Join us in our mission to provide better food for everyone. Your generosity can help alleviate hunger, improve health outcomes, and build a stronger, more resilient community.The Better Food for Everyone campaign aims to address food insecurity and promote a more equitable food system, where everyone can enjoy the benefits of good nutrition. Your contribution can play a vital role in this important cause.",
+    "image": "https://raw.githubusercontent.com/Shiham123/Img-donation/master/donationFoodTwo.jpg",
+    "amount": 290,
+    "bgColor": "#f8714726",
+    "fontColor": "#F87147",
+    "bgCategory": "#f8714733"
+  },
+  {
+    "id": 12,
+    "title": "Relief Card",
+    "category": "food",
+    "description": "Access to nutritious and wholesome food is a fundamental right that should be available to everyone, regardless of their circumstances. Our Better Food for Everyone campaign is dedicated to ensuring that every individual has the opportunity to enjoy healthy and nourishing meals.Imagine a world where no one has to go to bed hungry, where fresh fruits, vegetables, and quality ingredients are accessible to all. Your support in this campaign will help us work towards this vision. By contributing, you can make a meaningful difference in the lives of individuals and families struggling with food insecurity.Every donation goes towards providing essential food items, supporting local farmers, and promoting sustainable food practices. Together, we can ensure that no one has to make the difficult choice between a nutritious meal and other essential needs. Join us in our mission to provide better food for everyone. Your generosity can help alleviate hunger, improve health outcomes, and build a stronger, more resilient community.The Better Food for Everyone campaign aims to address food insecurity and promote a more equitable food system, where everyone can enjoy the benefits of good nutrition. Your contribution can play a vital role in this important cause.",
+    "image": "https://raw.githubusercontent.com/Shiham123/Img-donation/master/donationFoodThree.jpg",
+    "amount": 390,
+    "bgColor": "#f8714726",
+    "fontColor": "#F87147",
+    "bgCategory": "#f8714733"
+  }
+]
